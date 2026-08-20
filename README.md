@@ -1,8 +1,9 @@
-# The Lawson Beach Index
+# The Brandon Beach Index
 
-A password-protected, single-page comparison of all-inclusive resorts across Mexico,
-Central America, the Caribbean, and the Bahamas — rated by real traveler reviews,
-with prices, amenities, and flight times from DFW.
+A password-protected, single-page comparison of beach resorts — all-inclusive and
+room-only — across Mexico, Central America, the Caribbean, the Bahamas, Hawaii, and
+the US Gulf, Florida, and California coasts. Rated by real traveler reviews, with
+prices, amenities, and flight times from DFW.
 
 The published site is just `index.html`: a password page containing the full report
 **encrypted with AES-256-GCM**. The password decrypts it in the browser (WebCrypto,

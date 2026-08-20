@@ -12,7 +12,7 @@ Brandon and his family/partner, planning beach vacations from the Dallas/Fort Wo
 
 ## Product Purpose
 
-A private, living travel-research hub. Its first and current surface is **The Lawson Beach Index**: a comparison of 60 all-inclusive resorts (Mexico, Central America, Caribbean, Bahamas) on verified guest ratings, real price ranges, amenities, and door-to-door travel effort from DFW. Success means the household picks trips confidently from it without re-doing research — and the hub keeps growing (more destinations and, potentially, other trip types) rather than ending with one booking.
+A private, living travel-research hub. Its first and current surface is **The Brandon Beach Index**: a comparison of 113 beach resorts — all-inclusive and room-only — across Mexico, Central America, the Caribbean, the Bahamas, Hawaii, and the US Gulf/Florida/California coasts, on verified guest ratings, real price ranges, amenities, and door-to-door travel effort from DFW. Success means the household picks trips confidently from it without re-doing research — and the hub keeps growing (more destinations and, potentially, other trip types) rather than ending with one booking.
 
 ## Positioning
 
@@ -35,7 +35,7 @@ A personal index the big travel sites can't be: every rating traceable to a real
 
 ## Brand Commitments
 
-- Name: **The Lawson Beach Index** (family name; user-chosen and binding).
+- Name: **The Brandon Beach Index** (user-chosen and binding; renamed from "The Lawson Beach Index" on 2026-08-20).
 - Access ritual: one password, no username, unlock in the browser.
 
 ## Evidence on Hand
