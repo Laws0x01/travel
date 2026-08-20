@@ -1,0 +1,4 @@
+# Plaintext report, source data, and exports stay local - only the
+# encrypted index.html and docs are published to the public repo.
+build/
+.DS_Store
