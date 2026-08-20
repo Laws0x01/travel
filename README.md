@@ -19,11 +19,15 @@ lost, re-encrypt with a new one.
    python3 build/merge.py
    ```
 
-3. Re-encrypt into `index.html` (same command changes the password):
+3. Re-encrypt into `index.html`:
 
    ```
-   node build/encrypt.js '<password>'
+   node build/encrypt.js
    ```
+
+   Reads the password from `build/.password` (gitignored, one line). Pass the
+   password as an argument instead to set or change it: `node build/encrypt.js '<new password>'`
+   (then update `build/.password` to match).
 
 4. Commit and push `index.html`.
 
